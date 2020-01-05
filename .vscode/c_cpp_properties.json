@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/batman/udemy/udemy-embedded-arm-cortex/include",
+                "/home/batman/udemy/udemy-embedded-arm-cortex/src",
+                "/home/batman/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/batman/udemy/udemy-embedded-arm-cortex/include",
+                    "/home/batman/udemy/udemy-embedded-arm-cortex/src",
+                    "/home/batman/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "F_CPU=180000000L",
+                "NUCLEO_F446RE",
+                "PLATFORMIO=40100",
+                "STM32F446xx",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "\"/home/batman/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc\" -mthumb -mcpu=cortex-m4"
+        }
+    ],
+    "version": 4
+}
