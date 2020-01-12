@@ -6,14 +6,16 @@
         {
             "name": "Linux",
             "includePath": [
-                "/home/batman/udemy/udemy-embedded-arm-cortex/include",
+                "/home/batman/udemy/blink-stm32/include",
+                "/home/batman/udemy/blink-stm32/src",
                 "/home/batman/.platformio/packages/tool-unity",
                 ""
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/batman/udemy/udemy-embedded-arm-cortex/include",
+                    "/home/batman/udemy/blink-stm32/include",
+                    "/home/batman/udemy/blink-stm32/src",
                     "/home/batman/.platformio/packages/tool-unity",
                     ""
                 ]
